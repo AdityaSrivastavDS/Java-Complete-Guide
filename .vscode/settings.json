@@ -1,0 +1,17 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "DSA/Recursion/Inermediate Questions",
+        "DSA/Recursion/Basic Level Question",
+        "DSA/Recursion/Advance Questions/JAVA/Recursion/Advance_Questions",
+        "DSA/Recursion/Advance Questions",
+        "DSA/Backtracking",
+        "DSA\\Divide and Conquer",
+        "Practice",
+        "DSA\\Sorting",
+        "OOPS\\constructors",
+        "DSA\\ArrayList",
+        "DSA\\Linked List\\Singular Linked List",
+        "DSA\\Collections Framework"
+    ]
+}
