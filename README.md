@@ -56,7 +56,7 @@
 
 <p>Feel free to explore the contents of each folder to deepen your understanding of Java programming concepts.</p>
 
-<img src="your_image.png" alt="Example Image">
+
 
 </body>
 </html>
