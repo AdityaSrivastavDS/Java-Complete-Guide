@@ -36,7 +36,7 @@
 
 <h1>Java Complete Guide Repository</h1>
 <p>Welcome to the Java Complete Guide Repository! This repository contains comprehensive resources and examples to help you learn Java programming from the basics to advanced topics.</p>
-<img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw3j9fWrsLOGRl2RBBYDKVu8&ust=1713731265503000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDEzszQ0YUDFQAAAAAdAAAAABAE](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)">
+<img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png">
 <h2>Folders:</h2>
 <ul>
     <li><strong>.vscode:</strong> This folder likely contains configuration files for Visual Studio Code, a popular code editor.</li>
