@@ -12,6 +12,8 @@
         "OOPS\\constructors",
         "DSA\\ArrayList",
         "DSA\\Linked List\\Singular Linked List",
-        "DSA\\Collections Framework"
-    ]
+        "DSA\\Collections Framework",
+        "DSA\\Stack"
+    ],
+    "java.project.referencedLibraries": []
 }
