@@ -1,19 +1,18 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "DSA/Recursion/Inermediate Questions",
-        "DSA/Recursion/Basic Level Question",
-        "DSA/Recursion/Advance Questions/JAVA/Recursion/Advance_Questions",
-        "DSA/Recursion/Advance Questions",
-        "DSA/Backtracking",
-        "DSA\\Divide and Conquer",
+        "Algorithms/Backtracking",
+        "Algorithms/Divide and Conquer",
         "Practice",
-        "DSA\\Sorting",
-        "OOPS\\constructors",
-        "DSA\\ArrayList",
-        "DSA\\Linked List\\Singular Linked List",
-        "DSA\\Collections Framework",
-        "DSA\\Stack"
+        "OOPS/constructors",
+        "Data Structures/ArrayList",
+        "Data Structures/Linked List/Singular Linked List",
+        "Data Structures/Collections Framework",
+        "Data Structures/Stack",
+        "Data Structures/Queue",
+        "Data Structures/Linked List/Doubly Linked List",
+        "Data Structures/Linked List/Singular Linked List",
+        "Data Structures/Linked List/Circular Linked List",
     ],
     "java.project.referencedLibraries": []
 }
