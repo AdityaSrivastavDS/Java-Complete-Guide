@@ -20,14 +20,15 @@
     <li><strong>Input Stream:</strong> Learn about input streams in Java for reading data from different sources.</li>
     <li><strong>OOPs (Object-Oriented Programming):</strong> Understand the principles of object-oriented programming in Java, including classes, objects, inheritance, polymorphism, and encapsulation.</li>
     <li><strong>Operators:</strong> Explore various operators available in Java, including arithmetic, bitwise, logical, and relational operators.</li>
-    <li><strong>Practice:</strong> This folder may contain practice exercises or projects to reinforce your Java skills.</li>
+    <li><strong>Practice:</strong> This folder contain practice exercises or projects to reinforce your Java skills.</li>
     <li><strong>Special Keywords:</strong> Explore special keywords and constructs in Java, such as <code>this</code>, <code>super</code>, <code>static</code>, etc.</li>
-    <li><strong>HelloWorld:</strong> This folder might contain a simple "Hello, World!" program, often used as the first example in learning a new programming language.</li>
+    <li><strong>HelloWorld:</strong> This folder contain a simple "Hello, World!" program, often used as the first example in learning a new programming language.</li>
 </ul>
 
 <p>Feel free to explore the contents of each folder to deepen your understanding of Java programming concepts.</p>
 
-
-
 </body>
 </html>
+
+# 📜License
+This repository is protected with license , kindly use this repo according to guidelines and for educational purpose only.
