@@ -31,4 +31,4 @@
 </html>
 
 # 📜License
-This repository is protected with license , kindly use this repo according to guidelines and for educational purpose only.
+Repository protected through [License](#license) and only for reasearch and educational purpose.
